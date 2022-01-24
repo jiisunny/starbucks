@@ -208,9 +208,6 @@ header {
         z-index: 1;
         display: flex;
       }
-        header .main-menu .item {
-
-        }
           /* main menu - menu name */
           header .main-menu .item .item__name {
             padding: 10px 20px 34px 20px;
@@ -339,9 +336,6 @@ header {
 
 
 /***** NOTICE *****/
-.notice {
-
-}
   .notice .notice-line {
     position: relative;
   }
@@ -637,9 +631,6 @@ header {
       }
       .season-product .text-group .description {
         margin-bottom: 15px;
-      }
-      .season-product .text-group .more {
-
       }
 
 
