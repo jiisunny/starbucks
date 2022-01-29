@@ -220,7 +220,7 @@ new Swiper('.swiper-container', {
 
 ## YouTube API
 
-![스타벅스 YouTube 영상](https://raw.githubusercontent.com/jiisunny/dongbu-steel/master/_assets/main_youtube_screenshot.png)
+![스타벅스 YouTube 영상](https://raw.githubusercontent.com/jiisunny/starbucks/master/_assets/main_youtube_screenshot.png)
 
 [IFrame Player API](https://developers.google.com/youtube/iframe_api_reference?hl=ko)를 통해 YouTube 동영상을 제어할 수 있다.
 
