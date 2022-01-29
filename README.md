@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)](https://app.netlify.com/sites/wonderful-morse-63f91e/deploys)
 
-# Starbucks
+# Starbucks ☕️ 🥯
 
 스타벅스 랜딩 페이지(홈페이지) 실습 예제
 
