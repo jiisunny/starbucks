@@ -1,11 +1,16 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9f2f756f-e1fc-48d9-9c07-b7d7433d8aaa/deploy-status)](https://app.netlify.com/sites/wonderful-morse-63f91e/deploys)
+
 # Starbucks
 
 스타벅스 랜딩 페이지(홈페이지) 실습 예제
 
-[master 브랜치로 이동](https://github.com/jiisunny/starbucks) <br />
+[master 브랜치로 이동](https://github.com/jiisunny/starbucks)
+
 [signin 브랜치로 이동](https://github.com/jiisunny/starbucks/tree/signin)
 
 [스타벅스 홈페이지(DEMO+signin)](https://wonderful-morse-63f91e.netlify.app/)
+
+![스타벅스](https://raw.githubusercontent.com/jiisunny/starbucks/master/_assets/main_screenshot.png)
 
 ## 문자 인코딩(Character Encoding) 설정
 
@@ -214,6 +219,8 @@ new Swiper('.swiper-container', {
 ```
 
 ## YouTube API
+
+![스타벅스 YouTube 영상](https://raw.githubusercontent.com/jiisunny/dongbu-steel/master/_assets/main_youtube_screenshot.png)
 
 [IFrame Player API](https://developers.google.com/youtube/iframe_api_reference?hl=ko)를 통해 YouTube 동영상을 제어할 수 있다.
 
